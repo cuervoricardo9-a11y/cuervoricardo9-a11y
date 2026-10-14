@@ -1,8 +1,9 @@
 Hola, soy Ricardo Cuervo 👋
 
-Sobre mí
+Sobre mí:
 
 QA Engineer en formación con experiencia en pruebas funcionales, diseño de casos de prueba, checklists, reporte de bugs y pruebas API.
+
 
 Herramientas:
 
@@ -17,6 +18,7 @@ GitHub
 SQL Básico
 
 Google Sheets
+
 
 Habilidades
 
