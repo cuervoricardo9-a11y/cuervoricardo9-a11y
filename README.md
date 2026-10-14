@@ -20,7 +20,7 @@ SQL Básico
 Google Sheets
 
 
-Habilidades
+Habilidades:
 
 Diseño de casos de prueba
 
