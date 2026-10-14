@@ -34,7 +34,7 @@ Testing API
 
 Análisis de requerimientos
 
-Proyectos Destacados
+Proyectos Destacados:
 
 Urban Routes
 
@@ -43,7 +43,7 @@ Proyecto de pruebas funcionales para una plataforma de transporte.
 
 🔗 Enlace: https://app.notion.com/p/Urban-Routes-Automatizaci-n-de-pruebas-de-la-aplicaci-n-web-3566ac7af2448087a5d9e6977b8e8618
 
-Contacto
+Contacto:
 
 LinkedIn: https://www.linkedin.com/in/ricardo-cuervo-ardila/
 
